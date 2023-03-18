@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Тарутина Кристина
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Кристина
+last_name: Тарутина
 
 # Status emoji
 status:
@@ -14,34 +14,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент факультета физико-математических и естественных наук Российского университета дружбы народов
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Краткая биография
+bio: Родилась в Самарской области в городе Тольятти в 2004 году. В 2012 переехала в город Краснодар, там окончила Гимназию №92 (9-й класс Основное общее образование) и Гимназию №82(10-11 класс среднее общее образование). На данный момент студент Российского университета дружбы народов.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Искуственный интиллект
+  - Разработка видеоигр
+  - Дизайн
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Основы программирования на python
+      institution: Яндекс ЛИцей
+      year: 2022
+    - course: Осенний буткемп по искуственному интиллекту
+      institution: AI-ACADEMY
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
